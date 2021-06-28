@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586005352312",
+    "firebase_url": "https://chatapp-60127-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-60127",
+    "storage_bucket": "chatapp-60127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586005352312:android:9b4a97692a3782d8a8428d",
+        "android_client_info": {
+          "package_name": "orak.uzeyir.geyikchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586005352312-ec84mq43ouvjrk058c343vgff9iqej8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayth-H8smj8c71wQLd1uKcImiz4WpLSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586005352312-ec84mq43ouvjrk058c343vgff9iqej8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
